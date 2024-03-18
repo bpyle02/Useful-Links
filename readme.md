@@ -1,4 +1,4 @@
-# Useful Links
+# Useful Websites
 This is a list of some of my favorite websites I have found on the internet. Feel free to suggest more if you find any!
 
 ## Archives
