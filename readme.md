@@ -28,6 +28,7 @@ This is a list of some of my favorite websites I have found on the internet. Fee
 - [Carrd - Free Responsive One-Page Sites](https://carrd.co/)
 - [Godly - Web Design Inspiration](https://godly.website/)
 - [Screenshot and Mockup Creator](https://pika.style/)
+- [carbon - Code Image Generator](https://carbon.now.sh/)
 - [Iconfinder - Search for Icons, Stickers, Illustrations, and More](https://www.iconfinder.com/)
 - [FreeCAD - Free Browser-Based CAD Designer](https://www.freecad.org/)
 
@@ -37,6 +38,30 @@ This is a list of some of my favorite websites I have found on the internet. Fee
 - [Find & Compare Open Source Projects](https://awesomeopensource.com/)
 - [Development Toolkit](https://devina.io/)
 - [Visualize Data Structures and Algorithms](https://visualgo.net/en)
+- [freeCodeCamp - Free Projects and Certifications](https://www.freecodecamp.org/)
+- [W3 Schools - Multi-Language Reference and Tutorials](https://www.w3schools.com/)
+- [HackerNoon - Tech News](https://hackernoon.com/)
+- [exercism - Programming Exercises](https://exercism.org/)
+- [Rosetta Code - Solutions to Programming Problems](https://rosettacode.org/wiki/Rosetta_Code)
+- [edabit - Tutorials and Coding Challenges](https://edabit.com)
+- [Codepen - Online Front-End Editor](https://codepen.io/)
+- [Compiler Exploere - Convert Code to Assembly](https://godbolt.org/)
+- [Onelang.io - Web IDE and Code Converter](https://ide.onelang.io/)
+- [ideone.com - Web IDE and Compiler](https://ideone.com/)
+- [devdocs - Easy Searchable Language Documentation](https://devdocs.io/)
+- [httpis - API Tester](https://httpie.io/app)
+- [Regex Editor](https://regexr.com/)
+- [explainshell.com - Explains Bash Shell Commands](https://explainshell.com/)
+- [mockaroo - Random Data Generator](https://www.mockaroo.com/)
+- [VIM Adventures - Learn VIM While Playing a Game](https://vim-adventures.com/)
+### C++
+- [cplusplus.com - C++ Reference, Tutorials, and Forum](https://cplusplus.com/)
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- [Modern C++ Resources](https://github.com/rigtorp/awesome-modern-cpp)
+- [Open Source Modern C++ Course](https://github.com/federico-busato/Modern-CPP-Programming)
+- [Modern C++ Reference](https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170)
+### Python
+- [PY4E - Learn Python](https://www.py4e.com/lessons)
 ### HTML
 - [All the Tags - HTML Tag List](https://allthetags.com/)
 ### CSS
@@ -102,7 +127,6 @@ This is a list of some of my favorite websites I have found on the internet. Fee
 - [WolframAlpha](https://www.wolframalpha.com/)
 - [CalculatorSoup - Calculators for Everything](https://www.calculatorsoup.com/)
 
-
 ## Movies and TV
 - [Movie and TV Recommendations](https://agoodmovietowatch.com/)
 - [JustWatch - Find Where Movies are Streaming](https://www.justwatch.com/)
@@ -132,7 +156,7 @@ This is a list of some of my favorite websites I have found on the internet. Fee
 ## Sports
 - [DRatings - Sports Ratings, Predictions, & Analysis](https://www.dratings.com/)
 
-## Trip / Vacation
+## Travel
 - [Roadtrippers - Roadtrip Planner](https://roadtrippers.com/)
 - [Stippl. - Roadtrip Planner](https://stippl.io/)
 - [Seatguru - Find the Best Flights & Seat Maps](https://www.seatguru.com/)
