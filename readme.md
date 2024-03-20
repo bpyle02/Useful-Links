@@ -2,6 +2,7 @@
 This is a list of some of my favorite websites I have found on the internet. Feel free to suggest more if you find any!
 
 ## Archives
+- [Internet Archive](https://archive.org/)
 - [Wayback Machine](https://web.archive.org/)
 - [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)
 ### Books
